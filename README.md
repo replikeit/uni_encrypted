@@ -76,4 +76,4 @@ $ brownie run deploy --network goerli
 
 Ensure that `.env` file is correctly set up with `PRIVATE_KEY`, `ETHERSCAN_TOKEN` (if you need to publish source code), and `WEB3_INFURA_PROJECT_ID`.
 
-Deployed smart-contract address: [0x764ecB4b71f100F3aB385E1A906709e75A04d5A3](https://goerli.etherscan.io/address/0x764ecB4b71f100F3aB385E1A906709e75A04d5A3)
+Deployed smart-contract address: [0xAbfb6f23D77D9D8177b5fC58f971cF7E68914486](https://goerli.etherscan.io/address/0xAbfb6f23D77D9D8177b5fC58f971cF7E68914486)
